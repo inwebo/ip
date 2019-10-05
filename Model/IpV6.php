@@ -3,8 +3,6 @@
 
 namespace Inwebo\Ip\Model;
 
-use const http\Client\Curl\Features\IPV6;
-
 /**
  * Class IpV6
  *
