@@ -1,0 +1,23 @@
+{
+  "name":        "inwebo/ip",
+  "description": "PHP7.2 IPV4, IPV6 model.",
+  "type":        "library",
+  "license":     "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "inwebo"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": { "Inwebo\\Ip\\Model": "" }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:inwebo/ip.git"
+    }
+  ]
+}
